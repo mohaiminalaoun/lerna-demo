@@ -1,0 +1,15 @@
+{
+  "name": "mohaimin-skeleton",
+  "version": "1.0.12",
+  "description": "testing npm, don't use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node build.js"
+  },
+  "dependencies": {
+    "common": "1.0.0"
+  },
+  "author": "Mohaimin Al Aoun",
+  "license": "ISC"
+}
