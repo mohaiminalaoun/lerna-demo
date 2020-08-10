@@ -11,5 +11,6 @@
     "common": "^0.0.1-alpha.0"
   },
   "author": "Mohaimin Al Aoun",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "cc9342ebb86f407906161be945f3704da0f4e136"
 }
