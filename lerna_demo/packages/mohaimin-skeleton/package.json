@@ -1,16 +1,12 @@
 {
-  "name": "mohaimin-skeleton",
-  "version": "1.0.13",
-  "description": "testing npm, don't use",
+  "name": "mohaimin-skeleton-2",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "node build.js"
+    "postinstall": "echo \"Postinstall of skelton package is run\""
   },
-  "dependencies": {
-    "common": "^0.1.0-alpha.0"
-  },
-  "author": "Mohaimin Al Aoun",
-  "license": "ISC",
-  "gitHead": "eebf53ae801f66f2c696c51a2507e5d61d502efb"
+  "author": "",
+  "license": "ISC"
 }
