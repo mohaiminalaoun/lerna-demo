@@ -1,0 +1,22 @@
+.red {
+    background-color: red;
+}
+.darkcyan {
+    background-color: darkcyan;
+}
+
+.rounded {
+    border-radius: 4px;
+}
+
+.banner {
+    height: 70px;
+}
+
+.skeleton-img {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    float: right;
+    margin: 10px;
+}

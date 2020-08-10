@@ -1,6 +1,10 @@
 {
   "name": "mohaimin_lerna_demo",
-  "private": true,
+  "private": false,
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "cd packages/mohaimin-skeleton && node build.js"
+  },
   "devDependencies": {
     "lerna": "^3.22.1"
   }
