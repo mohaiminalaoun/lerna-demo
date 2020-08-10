@@ -1,6 +1,6 @@
 {
   "name": "mohaimin-skeleton",
-  "version": "1.0.0",
+  "version": "1.0.13",
   "description": "testing npm, don't use",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   },
   "author": "Mohaimin Al Aoun",
   "license": "ISC",
-  "gitHead": "cc9342ebb86f407906161be945f3704da0f4e136"
+  "gitHead": "eebf53ae801f66f2c696c51a2507e5d61d502efb"
 }
